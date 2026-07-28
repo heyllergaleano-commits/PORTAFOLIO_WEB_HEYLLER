@@ -9,17 +9,17 @@ export default {
       // de toda la plantilla, solo edita los valores hexadecimales de aquí.
       // Ver README.md -> "Cómo cambiar los colores".
       colors: {
-        primary: {
-          DEFAULT: '#2563EB', // azul principal
-          light: '#60A5FA',
-          dark: '#1E40AF',
-        },
-        secondary: {
-          DEFAULT: '#0EA5E9',
-          light: '#7DD3FC',
-          dark: '#0369A1',
-        },
-      },
+  primary: {
+    DEFAULT: '#C9D1D9',
+    light: '#F0F6FC',
+    dark: '#8B949E',
+  },
+  secondary: {
+    DEFAULT: '#30363D',
+    light: '#484F58',
+    dark: '#21262D',
+  },
+},
       keyframes: {
         'slide-up': {
           '0%': { transform: 'translateY(100%)', opacity: '0' },
